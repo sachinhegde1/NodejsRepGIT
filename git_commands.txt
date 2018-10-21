@@ -27,3 +27,5 @@ got clone https://github.com/sachinhegde1/NodejsRepGIT
    
    then make changes on any module , commit back to this cloned site
    
+   git pull to pull the latest changes from the remote to ur working repo
+   
