@@ -23,7 +23,7 @@ got clone https://github.com/sachinhegde1/NodejsRepGIT
  Fork in GIT online on others module ( example below so u can get ur own git copy)
 
     Clone it 
-   git clone https://github.com/sachinhegde1/python-guide.git
+ git clone https://github.com/sachinhegde1/python-guide.git
    
    then make changes on any module , commit back to this cloned site
    
