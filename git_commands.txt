@@ -15,7 +15,7 @@ git status ( Will tell u if ant changes wrto repo and any new changes added on t
 
 connecting to repo
 git remote add origin https://github.com/sachinhegde1/NodejsRepGIT
-git push -u origin master ( Push on merging with parent repo from git site).
+git push -u origin master ( Push to parent site -u means push on merging with parent repo from git site).
 git push -f origin master ( forced -dangerous)
 
 got clone https://github.com/sachinhegde1/NodejsRepGIT
