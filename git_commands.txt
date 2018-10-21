@@ -5,7 +5,25 @@ creating repo
 
 git init NodejsRepGIT
 
-git remote add origin https://github.com/sachinhegde1/NodejsRepGIT
-git push -u origin master
+git add filename ( For adding into git repo for firsttime).
 
-git push -f origin master ( forced)
+git commit filename ( for commiting to git repo after changes. each file needs to go through).
+
+git status ( Will tell u if ant changes wrto repo and any new changes added on top of last commit).
+
+
+
+connecting to repo
+git remote add origin https://github.com/sachinhegde1/NodejsRepGIT
+git push -u origin master ( Push on merging with parent repo from git site).
+git push -f origin master ( forced -dangerous)
+
+got clone https://github.com/sachinhegde1/NodejsRepGIT
+
+ Fork in GIT online on others module ( example below so u can get ur own git copy)
+
+    Clone it 
+   git clone https://github.com/sachinhegde1/python-guide.git
+   
+   then make changes on any module , commit back to this cloned site
+   
