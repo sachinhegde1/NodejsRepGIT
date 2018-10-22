@@ -35,7 +35,17 @@ Pulll v/s Fetch:
 
 git pull to pull the latest changes from the remote to ur working repo ( This includes the merge command as well).
    
+
+   
 git fetch ( it pulls the data but doesnt merge unless u executte git merge filename) command.
+
+
+
+Git creating branch:
+
+git checkout -b "branchname"  /* when we do this the head will be on the branch created and changes will be saved to branch and not to master*/
+
+
 
 
 
