@@ -18,14 +18,26 @@ git remote add origin https://github.com/sachinhegde1/NodejsRepGIT
 git push -u origin master ( Push to parent site -u means push on merging with parent repo from git site).
 git push -f origin master ( forced -dangerous)
 
-got clone https://github.com/sachinhegde1/NodejsRepGIT
+
+(raising pull request):
 
  Fork in GIT online on others module ( example below so u can get ur own git copy)
 
     Clone it 
- git clone https://github.com/sachinhegde1/python-guide.git
+    git clone https://github.com/sachinhegde1/python-guide.git
    
-   then make changes on any module , commit back to this cloned site
+    then make changes on any module , commit back to this cloned site just like above.
    
-   git pull to pull the latest changes from the remote to ur working repo
+   then go back to site -> raise pullrequest from git hub , it will ask author to merge after reviewing ur changes.
+
+   
+Pulll v/s Fetch:
+
+git pull to pull the latest changes from the remote to ur working repo ( This includes the merge command as well).
+   
+git fetch ( it pulls the data but doesnt merge unless u executte git merge filename) command.
+
+
+   
+   
    
