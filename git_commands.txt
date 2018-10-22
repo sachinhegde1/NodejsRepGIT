@@ -47,6 +47,12 @@ git checkout -b "branchname"  /* when we do this the head will be on the branch 
 
 git checkout master /* switch the head maps to the master and any changes will be now committed on master */
 
+difference between branches:
+git diff master sac_branch1
+
+
+pushing to branch to origin ( on the remote site):
+git push origin sac_branch1
 
 
 
