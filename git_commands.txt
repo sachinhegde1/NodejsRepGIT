@@ -45,6 +45,8 @@ Git creating branch:
 
 git checkout -b "branchname"  /* when we do this the head will be on the branch created and changes will be saved to branch and not to master*/
 
+git checkout master /* switch the head maps to the master and any changes will be now committed on master */
+
 
 
 
