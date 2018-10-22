@@ -38,6 +38,8 @@ git pull to pull the latest changes from the remote to ur working repo ( This in
 git fetch ( it pulls the data but doesnt merge unless u executte git merge filename) command.
 
 
+
+
    
    
    
